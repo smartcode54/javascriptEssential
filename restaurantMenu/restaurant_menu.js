@@ -1,7 +1,8 @@
 //1.initial menu with array item 
-const breakfastMenu = ['Pancakes', 'Eggs Benedict', 'Oatmeal', 'Frittata'];
+const breakfastMenu = ['Pancakes- $12', 'Eggs Benedict -$22.99', 'Oatmeal -$21.99', 'Frittata -$15'];
 const mainCourseMenu = ['Steak', 'Pasta', 'Burger', 'Salmon'];
 const dessertMenu = ['Cake', 'Ice Cream', 'Pudding', 'Fruit Salad'];
+
 
 
 //2.breakfastMenu.map(...): The map() iterator method is an array method that creates a new array by calling a provided function on every element in the original array. It transforms each element.
