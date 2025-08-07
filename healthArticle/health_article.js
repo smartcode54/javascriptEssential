@@ -36,7 +36,7 @@ xhr.onload = function() {
       // Create and populate the "Ways to Achieve" list
       var waysHeader = document.createElement('h3');
       waysHeader.textContent = 'Ways to Achieve:';
-
+      
       var waysList = document.createElement('ul');
       article.ways_to_achieve.forEach(function(way) {
         var listItem = document.createElement('li');
